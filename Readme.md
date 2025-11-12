@@ -1,61 +1,59 @@
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=i+code.;sometimes+it+works.;sometimes+it+doesn't.;either+way,+i+push+it+to+github." alt="Typing SVG" />
-  
-  <br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
-  <h2>hey, i'm vishnu vardhan</h2>
-  <p>full stack & devops dev • caffeine driven • docker survivor</p>
+<!-- ──────────────────────────────────────────────── -->
+<!-- VISHNU VARDHAN | pvcube66 | clean glass aesthetic -->
+<!-- ──────────────────────────────────────────────── -->
 
-  ---
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&pause=1000&color=0A0A0A&center=true&vCenter=true&width=500&lines=i+code.;i+build+systems.;i+create+things+that+think." alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/fullstack%20developer-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/devops%20engineer-ffffff?style=for-the-badge&logo=docker&logoColor=000000" />
+
 </div>
 
+---
+
 ### 🧠 about me
-- 🧩 react • next.js • node.js • fastapi • python  
-- 🐳 docker • redis • postgresql • mongodb  
-- ⚙️ working on microservices & system design  
-- ☕ powered by caffeine, chaos & debugging  
-- 💭 goal: build things that talk, think, and scale  
+> building digital systems that talk, think, and scale.
+
+- ⚙️ full stack & devops engineer  
+- 🧩 next.js • react • node.js • fastapi • python  
+- 🐳 docker • redis • postgresql • mongodb • aws  
+- 🧠 exploring system design & ai agents  
+- ✨ minimalist code • maximal impact  
 
 ---
 
-### 🛠️ tech stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,fastapi,python,cpp,java,git,github,docker,postgres,mongodb,redis,linux,aws,vscode&perline=9" />
-</p>
+### 🛠️ tech arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,fastapi,python,cpp,java,postgres,mongodb,redis,docker,linux,git,github,aws,vscode&perline=9" />
+</div>
 
 ---
 
-### 📊 github stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvcube66&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvcube66&theme=tokyonight&hide_border=true" height="165" />
-</p>
+### 📊 performance metrics
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=pvcube66&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=0A0A0A" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pvcube66&theme=transparent&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" height="165" />
+
+</div>
 
 ---
 
-### 🎧 vibe check
-<p align="center">
-  currently debugging life 💀 <br>
-  🎧 lo-fi + caffeine edition ☕
-</p>
-
----
-
-### 🌐 connect with me
-<p align="center">
-  <a href="https://twitter.com/pvcube66"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://linkedin.com/in/pvcube66"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/pvcube66"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
+### 🌐 network
+<div align="center">
+  <a href="https://linkedin.com/in/pvcube66"><img src="https://img.shields.io/badge/linkedin-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/pvcube66"><img src="https://img.shields.io/badge/twitter-ffffff?style=for-the-badge&logo=x&logoColor=000000" /></a>
+  <a href="https://github.com/pvcube66"><img src="https://img.shields.io/badge/github-0A0A0A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 ---
 
 <div align="center">
-  
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
-  
-  <br/><br/>
-  <b>“commit. push. pray.”</b>
-  
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&text=commit.%20push.%20perfect.&fontSize=32&fontColor=000000" />
+
 </div>
