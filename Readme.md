@@ -2,21 +2,20 @@
 
 <p align="center">
   <samp>
-    systems. stacks. sleep deprivation.<br>
-    it compiles. that’s all that matters.
+    full stack. backend. systems.<br>
+    i build. it breaks. i fix. repeat.
   </samp>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=initializing+docker+daemon...;connecting+to+prod...;regretting+life+choices...;still+coding." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=booting+up...;writing+code...;debugging+my+existence...;still+coding." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 tech i argue with
+### 🧠 stack
 react • next.js • node.js • fastapi • python
-docker • redis • postgresql • mongodb
-cpp • typescript • linux • aws
+typescript • postgresql • mongodb • redis • cpp • linux • aws
 
 php-template
 Copy code
@@ -25,19 +24,19 @@ Copy code
 
 <p align="center">
   <samp>
-    “if it works, don’t ask why.”<br>
-    — gilfoyle, probably.
+    "it runs. i move on."<br>
+    — me, after pushing to main.
   </samp>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dZ1z4x9.gif" width="260" alt="system" /><br>
-  <samp>commit. push. act like it was intentional.</samp>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="280" alt="coding gif" /><br>
+  <samp>commit. push. pretend it was intentional.</samp>
 </p>
 
 ---
 
-### ⚙️ socials
+### 🌐 socials
 <p align="center">
   <a href="https://github.com/pvcube66"><img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
   <a href="https://linkedin.com/in/pvcube66"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
@@ -48,8 +47,8 @@ Copy code
 
 <p align="center">
   <samp>
-    system online ▓▓▓▓▓▓▓▓▓░ 97%<br>
-    uptime: irrelevant<br><br>
-    “the cloud is just someone else’s computer.”
+    system stable ▓▓▓▓▓▓▓▓▓▓ 100%<br>
+    documentation: nonexistent<br><br>
+    "perfection is boring. chaos works."
   </samp>
 </p>
