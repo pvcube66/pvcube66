@@ -14,17 +14,19 @@
 ---
 
 ### 🧠 stack
-react • next.js • node.js • fastapi • python
-typescript • postgresql • mongodb • redis • cpp • linux • aws
+react • next.js • typescript • javascript  
+node.js • express • python  
+postgresql • mongodb • redis  
+cpp • linux • aws • dsa
 
-php-template
-Copy code
+
+
 
 ---
 
 <p align="center">
   <samp>
-    "it runs. i move on."<br>
+    "it runs. i move on (i dont)."<br>
     — me, after pushing to main.
   </samp>
 </p>
@@ -48,7 +50,7 @@ Copy code
 <p align="center">
   <samp>
     system stable ▓▓▓▓▓▓▓▓▓▓ 100%<br>
-    documentation: nonexistent<br><br>
-    "perfection is boring. chaos works."
+    documentation: me<br><br>
+    " i tatake tatake "
   </samp>
 </p>
