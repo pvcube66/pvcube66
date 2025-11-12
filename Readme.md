@@ -1,3 +1,4 @@
+ 
 <h1 align="center">i code.</h1>
 
 <p align="center">
@@ -19,9 +20,6 @@ node.js • express • python
 postgresql • mongodb • redis  
 cpp • linux • aws • dsa
 
-
-
-
 ---
 
 <p align="center">
@@ -32,7 +30,7 @@ cpp • linux • aws • dsa
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="280" alt="coding gif" /><br>
+  <img src="https://preview.redd.it/hltssqisj1441.png?auto=webp&s=d5d7b4180fd7117d4aec1cff72375d9949e2c18b" width="400" alt="aot vibe" /><br>
   <samp>commit. push. pretend it was intentional.</samp>
 </p>
 
@@ -51,6 +49,7 @@ cpp • linux • aws • dsa
   <samp>
     system stable ▓▓▓▓▓▓▓▓▓▓ 100%<br>
     documentation: me<br><br>
-    " i tatake tatake "
+    "i tatake "
   </samp>
 </p>
+
